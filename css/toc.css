@@ -186,3 +186,9 @@
 .tocify-extend-page {
     height: 10px !important;
 }
+
+@media only screen and (max-width: 600px) {
+  .tocify-extend-page {
+    height: 0 !important;
+  }
+}

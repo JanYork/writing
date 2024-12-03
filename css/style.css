@@ -369,6 +369,10 @@ a
 }
 
 @media only screen and (max-width: 600px) {
+    .paper
+    {
+        padding: 0;
+    }
     .footer-last-without-line {
         flex-direction: column;
     }
