@@ -56,8 +56,18 @@ window.addEventListener('resize', () => {
     size.width = window.innerWidth;
     size.height = window.innerHeight;
     
-    draw();
+    redraw();
 });
+
+/**
+ * 重绘
+ */
+function redraw() {
+    clearTimeout(redraw.timer);
+    redraw.timer = setTimeout(() => {
+        draw();
+    }, 1000);
+}
 
 /**
  * 初始化画布
