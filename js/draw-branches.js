@@ -56,6 +56,7 @@ window.addEventListener('resize', () => {
     size.width = window.innerWidth;
     size.height = window.innerHeight;
     
+    stopped = true;
     redraw();
 });
 
@@ -66,7 +67,7 @@ function redraw() {
     clearTimeout(redraw.timer);
     redraw.timer = setTimeout(() => {
         draw();
-    }, 1000);
+    }, 300);
 }
 
 /**
