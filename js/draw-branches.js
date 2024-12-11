@@ -4,6 +4,11 @@
  * @returns {HTMLCanvasElement}
  */
 function createDrawBranchesCanvasContainer() {
+    const old = document.getElementById('draw-branches-canvas-container');
+    if (old) {
+        old.remove();
+    }
+
     const div = document.createElement('div');
     div.classList.add(
         'fixed',
@@ -50,6 +55,8 @@ let size = {
 window.addEventListener('resize', () => {
     size.width = window.innerWidth;
     size.height = window.innerHeight;
+    
+    draw();
 });
 
 /**
@@ -99,6 +106,13 @@ function polar2cart(x = 0, y = 0, r = 0, theta = 0) {
 
 // 监听dom加载完成事件
 document.addEventListener('DOMContentLoaded', () => {
+    draw();
+});
+
+/**
+ * 开始绘制
+ */
+function draw() {
     const canvas = createDrawBranchesCanvasContainer();
     let { ctx } = initCanvas(canvas, size.width, size.height);
     const width = canvas.width;
@@ -246,4 +260,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 启动
     start();
-});
+}
