@@ -1,18 +1,14 @@
-const graySpecialDates = ['12-13'];
-
-function getToday() {
-    const today = new Date();
-    const month = String(today.getMonth() + 1).padStart(2, '0');
-    const day = String(today.getDate()).padStart(2, '0');
-    return `${month}-${day}`;
+function getLunarToday() {
+    const lunar = Lunar.fromDate(new Date());
+    return `${lunar.getMonth()}-${lunar.getDay()}`;
 }
 
 function applyGrayEffect() {
-    const todayDate = getToday();
-
-    if (graySpecialDates.includes(todayDate)) {
+    const graySpecialDates = ['11-13'];
+    const lunar = getLunarToday();
+    if (graySpecialDates.includes(lunar)) {
         document.body.style.filter = 'grayscale(100%)';
     }
 }
 
-applyGrayEffect();
+applyGrayEffect()
