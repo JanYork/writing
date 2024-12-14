@@ -116,6 +116,11 @@ a
     flex: 0 0 100%;
 }
 
+.header .nav
+{
+    justify-content: center;
+}
+
 .nav
 {
     margin: 4px -1px -3px;
@@ -123,8 +128,8 @@ a
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: flex-start;
     align-content: center;
-    justify-content: center;
 }
 .nav li
 {
