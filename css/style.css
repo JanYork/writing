@@ -118,7 +118,9 @@ a
 
 .header .nav
 {
-    justify-content: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin-bottom: 24px;
 }
 
 .nav
@@ -375,6 +377,9 @@ a
 }
 
 @media only screen and (max-width: 600px) {
+    .index-header-line {
+        margin-top: 0;
+    }
     .paper
     {
         padding: 0;
