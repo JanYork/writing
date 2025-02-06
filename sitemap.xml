@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://paper.nbyte.me/2025/02/05/new/</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paper.nbyte.me/index/index.html</loc>
+    
+    <lastmod>2025-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://paper.nbyte.me/2025/01/23/why-create-personal-blog-website/</loc>
     
     <lastmod>2025-01-23</lastmod>
@@ -14,15 +32,6 @@
     <loc>https://paper.nbyte.me/2022/10/06/use-all-life-to-write-a-story/</loc>
     
     <lastmod>2025-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://paper.nbyte.me/index/index.html</loc>
-    
-    <lastmod>2025-01-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -175,7 +184,7 @@
 
   <url>
     <loc>https://paper.nbyte.me/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,21 +192,21 @@
   
   <url>
     <loc>https://paper.nbyte.me/tags/%E6%95%A3%E6%96%87/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paper.nbyte.me/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paper.nbyte.me/tags/%E4%B9%A6%E6%91%98/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -206,28 +215,28 @@
   
   <url>
     <loc>https://paper.nbyte.me/categories/%E6%95%A3%E6%96%87/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paper.nbyte.me/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paper.nbyte.me/categories/%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paper.nbyte.me/categories/%E9%9A%8F%E7%AC%94/%E8%99%9A%E6%9E%84/</loc>
-    <lastmod>2025-01-23</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
