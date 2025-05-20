@@ -8,14 +8,17 @@ hexo.on('ready', () => {
   hexo.log.info(`
 
 Welcome.
-----------------------------------------------------------------
-   ___  ____
-  / _ |/ / /
- / __ /_  _/
-/_/ |_|/_/                                 Reading and writing.
------------------------------------------------------------------
-Your hexo-theme-A4 version is ${version}. Maybe it can be updated.
-The latest: https://github.com/HiNinoJay/hexo-theme-A4/releases
------------------------------------------------------------------
+----------------------------------------------------------------------
+                        _ __               
+                        ' )  )              
+                        /--'__.  _   _  __ 
+                        /   (_/|_/_)_</_/ (_
+                                /           
+                              '            
+----------------------------------------------------------------------
+Your hexo-theme-paper version is ${version}. Maybe it can be updated.
+Theme extends from hexo-theme-a4, which is a simple and elegant theme.
+See a4 theme on github: https://github.com/HiNinoJay/hexo-theme-A4
+----------------------------------------------------------------------
 `)
 })

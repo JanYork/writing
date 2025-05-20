@@ -18,17 +18,16 @@
     </div>
 <% } %>
 <% if(theme.index.titlePosition == "left") { %>
-    <div style="text-align: left;">
+    <div style="text-align: left; display: flex; justify-content: center;">
 <% } else if(theme.index.titlePosition == "center") { %>
-    <div style="text-align: center;"> 
+    <div style="text-align: center; display: flex; justify-content: center;"> 
 <% } %>
-        <a class="index-logo" href="<%- url_for() %>"><%= config.title %></a>
-        <div style="margin-bottom: 12px;"> 
+        <div style="margin:12px 0 12px 0; display: flex; justify-content: flex-start; overflow: auto; white-space: nowrap;"> 
             <% for (name in theme.menu) { %>
                 <% if(theme.menu[name] == '/') { %>
                     <%= name %>
                 <% } else if(theme.showInMenu.includes(name)) { %>
-                    &nbsp / &nbsp<a href="<%- url_for(theme.menu[name]) %>"><%= name %></a>
+                    &nbsp;&nbsp;<a href="<%- url_for(theme.menu[name]) %>"><%= name %></a>
                 <% } %>
             <% } %>
         </div>

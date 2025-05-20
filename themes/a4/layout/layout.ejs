@@ -43,7 +43,7 @@
                     <%- partial('_partial/footer') %>
                 </div>
             <% } else if(path == "list/index.html") { %>
-                <div class="shadow-drop-2-top paper-main">
+                <div class="shadow-drop-2-bottom paper-main">
                      <%- partial('_partial/post-header') %> 
                      <%- partial('list') %> 
                      <%- partial('_partial/footer') %>
@@ -69,6 +69,9 @@
                     <% if(categories = (path == "categories/index.html")) { %>
                             <%- partial('categories') %>
                     <% } %>
+                    <% if(archives = (path == "archives/index.html")) { %>
+                            <%- partial('archives') %>
+                    <% } %>
 
                     <% if(tagsInside = (path.length > "tags/index.html".length && path.substring(0, 5) == "tags/")) { %>
                             <%- partial('_partial/tags-list') %> 
@@ -80,7 +83,6 @@
                     <!--说明是文章post页面-->
                     <% if (!tags && !categories && !tagsInside && !categoriesInside) { %>
                         <%- partial('post') %>
-                                      
                     <% } %>
                     
                     <%- partial('_partial/footer') %>

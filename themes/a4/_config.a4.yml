@@ -8,37 +8,34 @@ menu:
   Article: /list/ # 需要hexo new page list
   # 添加其他页面格式举例：
   About: /about/ # 需要hexo new page about
-  Link: /link/ # 需要hexo new page links
-  Tag: /tags/ #需要hexo new page tags
-  Category: /categories/ # 需要hexo new page categories
-  Archive: /archives/ # 需要hexo new page archives
-  Moment: /moment/ # 需要hexo new page moments
-  Jiuchan: https://jiuchan.org # 外部链接
+  Tags: /tags/ #需要hexo new page tags
+  Categories: /categories/ # 需要hexo new page categories
 
 # 首页你想要展示的menu链接，注意当你修改了menu中的别名，这里要随着更改，不然你会疑惑怎么首页没有修改后的别名
 showInMenu:  # menu 中的哪些页面显示在首页中（“首页”必定显示）
   - Article  # 将在首页显示 文章 链接
   - About
-  - Category
-  - Link
-  - Jiuchan
-  - Moment
+  - Tags
+  - Categories
 
 index:  # 首页相关配置
   header:  # 首页的页眉 以及 404页面，当你没开启一言，将会每次刷新页面随机展示下面的语句
-    - "楼外的蒹葭，傍晚的月亮，和鸡鸣寺的樱花。"
+    #- "我忘明月很久，明月始终望我"
+    #- "人山人海，人来人往"
+    #- "看过大海的人不会忘记海的广阔"
   hitokoto: false # 一言：调用网络语句展示的接口
-  footer: Email:hi@ixor.me # 除了可以填写任何文字外，可以自动邮箱链接化，但需按照这个格式填写：Email:xxx@gmail.com
+  footer: Email:hi@nbyte.me # 除了可以填写任何文字外，可以自动邮箱链接化，但需按照这个格式填写：Email:xxx@gmail.com
   titlePosition: left # center | left  # 首页标题的位置
   width: small  # small | middle | big # 首页的宽度
 
 footerLink: # 底部的链接自定义
   info: © 2019-2024 JanYork  # info这个单词不能修改，不想使用可为空
   # 添加链接格式 举例
-  Contact: /contact # 需要hexo new page contact
-  Support: /support # 需要hexo new page support
-  Feed: /feed.xml
-  Link: /link
+  # 友链: /friends/ # 需要hexo new page friends
+  联系: /contact/ # 需要hexo new page contact
+  支持: /support/ # 需要hexo new page support
+  
+  # ...
 
 post:
   footer: 
@@ -59,6 +56,11 @@ tool:
   recentUpdatePost: false # list页面将会新增一个“最近更新”模块，展示最近3篇文章，最近更新可点击跳转至 "最近更新列表页面"
   # A4启动将会自动创建“最近更新页面”：url为 /recent-updates 请自行使用
   # 如果你发现你的最近更新时间总是当天部署的时间，请看 https://ninojay.top/2023/writeByGithub-2/#2024.09.26更新说明
+
+gray:
+  enable: true # true | false # 是否开启A4的灰度模式
+  date: 
+    - 12-13
 
 # ---------------------------------------------------------------------------------------
 # 以上为基本配置，实现了A4主题追求的纯净风

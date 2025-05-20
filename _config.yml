@@ -160,13 +160,13 @@ theme: a4
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  - type: sftp
-    host: 43.143.217.215
-    user: ubuntu
-    remotePath: /opt/1panel/apps/openresty/openresty/www/sites/paper/index
-    port: 922
-    privateKey: /Users/muyouzhi/.ssh/hexo.pem
-    forceUpload: true
+  # - type: sftp
+  #   host: 43.143.217.215
+  #   user: ubuntu
+  #   remotePath: /opt/1panel/apps/openresty/openresty/www/sites/paper/index
+  #   port: 922
+  #   privateKey: /Users/muyouzhi/.ssh/hexo.pem
+  #   forceUpload: true
   - type: 'git'
     repository: git@github.com:JanYork/writing.git
     branch: main

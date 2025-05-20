@@ -4,7 +4,9 @@
     <meta name="description" content="<%= page.title %>" />
     <meta name="hexo-theme-A4" content="<%= theme.version %>" />
     <link rel="alternate icon" type="image/webp" href="<%- url_for(theme.favicon) %>">
-    <title><%= config.title + (config.subtitle ? ' | ' + config.subtitle : '') %></title>
+    <title><%= (config.title + ' | ' + (page.title || config.subtitle || '')) || (config.title + (config.subtitle ? ' | ' + config.subtitle : '')) %></title>
+    <meta name="keywords" content="JanYork, JanYork's Paper, 简昀的博客, 简昀, JanYork的博客, <%= (config.title + ' | ' + page.title) %>" />
+    <meta name="description" content="<%= page.description || page.title || config.description || config.title %>" />
 
     <% if(theme.cdn.enable && theme.cdn.choose != "") { %>
         <% if(theme.cdn.choose == "aliyun") { %>
@@ -105,6 +107,7 @@
 
         <% } %>
     <% } else { %>
+        <%- css('css/share.css') %> 
         <%- css('css/highlight/style1.css') %>
         <%- css('css/reset.css') %>
         <%- css('css/markdown.css') %>
@@ -132,6 +135,5 @@
         <%- css('css/returnToLastPage.css') %>
     <% } %>
     
-   <%- css('css/lightgallery-bundle.min.css') %>
-
+    <%- css('css/lightgallery-bundle.min.css') %>
 </head>
