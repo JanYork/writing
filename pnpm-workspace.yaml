@@ -1,0 +1,10 @@
+ignoredBuiltDependencies:
+  - hexo-util
+
+onlyBuiltDependencies:
+  - gifsicle
+  - highlight.js
+  - jpegtran-bin
+  - mozjpeg
+  - optipng-bin
+  - pngquant-bin
