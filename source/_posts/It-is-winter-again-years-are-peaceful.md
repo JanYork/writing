@@ -1,10 +1,8 @@
 ---
 title: 时令又冬，岁月静好
 date: 2024-12-10 10:00:00
-tags:
- - 散文
-categories:
- - 散文
+tags: [散文]
+categories: [散文]
 keywords:
  - 散文
  - 写作

@@ -1,10 +1,8 @@
 ---
 title: 为什么创建个人博客网站？
 date: 2025-01-23 12:00:00
-tags:
- - 随笔
-categories:
- - 随笔
+tags: [随笔]
+categories: [随笔]
 keywords:
  - 随笔
  - 写作

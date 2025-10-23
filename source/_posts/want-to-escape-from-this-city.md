@@ -1,10 +1,8 @@
 ---
 title: 想要逃离这座城
 date: 2025-03-06 23:00:00
-tags:
- - 散文
-categories:
- - 散文
+tags: [散文]
+categories: [散文]
 keywords:
  - 散文
  - 写作

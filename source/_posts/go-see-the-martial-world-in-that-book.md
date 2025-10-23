@@ -1,10 +1,8 @@
 ---
 title: 去看那书中的江湖
 date: 2023-04-16 23:00:00
-tags:
- - 散文
-categories:
- - 散文
+tags: [散文]
+categories: [散文]
 keywords:
  - 散文
  - 写作

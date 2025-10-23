@@ -1,11 +1,8 @@
 ---
 title: 少年的眼中，应当是星辰大海
 date: 2022-10-01 20:00:00
-tags:
- - 随笔
-categories:
- - 随笔
- - 虚构
+tags: [随笔]
+categories: [随笔, 虚构]
 keywords:
  - 随笔
  - 写作

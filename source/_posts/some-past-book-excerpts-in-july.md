@@ -1,10 +1,8 @@
 ---
 title: 分享一些以往的书摘（7月）
 date: 2024-07-31 13:00:00
-tags:
- - 书摘
-categories:
- - 阅读
+tags: [书摘]
+categories: [阅读]
 keywords:
  - 书摘
  - 摘抄

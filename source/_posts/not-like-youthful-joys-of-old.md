@@ -1,10 +1,8 @@
 ---
 title: 欲买桂花同载酒，终不似，少年游
 date: 2022-10-03 01:00:00
-tags:
- - 散文
-categories:
- - 散文
+tags: [散文]
+categories: [散文]
 keywords:
  - 散文
  - 写作

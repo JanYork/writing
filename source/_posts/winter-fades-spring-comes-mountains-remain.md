@@ -1,10 +1,8 @@
 ---
 title: 冬去春来，青山依旧在，人间又一年。
 date: 2025-02-05 12:00:00
-tags:
- - 散文
-categories:
- - 散文
+tags: [散文]
+categories: [散文]
 keywords:
  - 散文
  - 写作

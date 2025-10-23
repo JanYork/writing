@@ -1,11 +1,8 @@
 ---
 title: 西江月.春夜行
 date: 2025-03-23 12:00:00
-tags:
- - 诗词
- - 随笔
-categories:
- - 诗词
+tags: [诗词, 随笔]
+categories: [诗词]
 keywords:
  - 诗词
  - 随笔

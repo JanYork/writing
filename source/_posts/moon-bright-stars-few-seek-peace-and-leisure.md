@@ -1,10 +1,8 @@
 ---
 title: 少年，月明星稀，需自在清闲
 date: 2024-08-17 00:00:00
-tags:
- - 散文
-categories:
- - 散文
+tags: [散文]
+categories: [散文]
 keywords:
  - 散文
  - 写作

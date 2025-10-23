@@ -1,10 +1,8 @@
 ---
 title: 用一生，写一故事
 date: 2022-10-06 22:00:00
-tags:
- - 散文
-categories:
- - 散文
+tags: [散文]
+categories: [散文]
 keywords:
  - 散文
  - 写作
