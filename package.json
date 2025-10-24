@@ -16,6 +16,7 @@
     "hexo-all-minifier": "^0.5.7",
     "hexo-filter-github-emojis": "^3.0.5",
     "hexo-filter-mathjax": "^0.9.1",
+    "hexo-tag-aplayer": "^3.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",

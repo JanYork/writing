@@ -120,7 +120,7 @@ tabs:
   # Make the nav bar of tabs with long content stick to the top.
   sticky: false
   transition:
-    tabs: false       d
+    tabs: false
     labels: true
 
 # Metadata elements
@@ -155,16 +155,23 @@ theme: A4
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  - type: sftp
-    host: 43.143.217.215
-    user: ubuntu
-    remotePath: /opt/1panel/apps/openresty/openresty/www/sites/paper/index
-    port: 922
-    privateKey: /Users/muyouzhi/.ssh/hexo.pem
-    forceUpload: true
+  # - type: sftp
+  #   host: 43.143.217.215
+  #   user: ubuntu
+  #   remotePath: /opt/1panel/apps/openresty/openresty/www/sites/paper/index
+  #   port: 922
+  #   privateKey: /Users/muyouzhi/.ssh/hexo.pem
+  #   forceUpload: true
   - type: 'git'
     repository: git@github.com:JanYork/writing.git
     branch: main
   - type: 'git'
     repository: git@github.com:JanYork/janyork.github.io.git
     branch: main
+
+# APlayer / MetingJS settings for hexo-tag-aplayer
+aplayer:
+  asset_inject: true
+  meting: true
+  # 如需自定义 Meting API（默认可能不可用），可取消下一行注释：
+  # meting_api: https://api.injahow.cn/meting/?server=:server&type=:type&id=:id

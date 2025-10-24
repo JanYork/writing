@@ -4,9 +4,14 @@ date: 2025-10-22 00:00:00
 tags: [摘录]
 categories: [摘录]
 description: "一段关于小学同学小A的记忆：恶作剧、夹生饭、夏天的教室与溪边的书包，以及几只湿透的千纸鹤。"
+music_link: https://music.163.com/song?id=28457938
 ---
 
 > 注：此文来自互联网，我觉得写的很好，所以摘录下来。
+
+{% mobile %}
+{% meting "28457938" "netease" "song" %}
+{% endmobile %}
 
 ---
 

@@ -2,6 +2,8 @@ ignoredBuiltDependencies:
   - hexo-util
 
 onlyBuiltDependencies:
+  - core-js
+  - fsevents
   - gifsicle
   - highlight.js
   - jpegtran-bin
