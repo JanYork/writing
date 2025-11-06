@@ -8,8 +8,9 @@ Welcome to my friends' links page! Feel free to exchange links with me.
 
 ### Recommended Websites
 
-1. [青桔气球](https://blog.qjqq.cn)
-2. [小染笔记](https://onoe.cn)
+1. [青桔](https://blog.qjqq.cn)
+2. [小染](https://onoe.cn)
+3. [Oriental](https://blog.zhikezhui.cn/)
 4. [伍十七](https://efu.me)
 5. [宇阳](https://liuyuyang.net)
 
@@ -19,6 +20,8 @@ Welcome to my friends' links page! Feel free to exchange links with me.
 2. [Blog](https://blog.ixor.me)
 3. [Note](https://text.ixor.me)
 4. [JueJin](https://juejin.cn/user/2577696163899741)
+5. [Text](https://text.ixor.me)
+6. [JiuChan](https://www.jiuchan.org)
 
 ### Some utility websites
 
