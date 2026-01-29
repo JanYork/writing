@@ -20,13 +20,12 @@ Welcome to my friends' links page! Feel free to exchange links with me.
 2. [Blog](https://blog.ixor.me)
 3. [Note](https://text.ixor.me)
 4. [JueJin](https://juejin.cn/user/2577696163899741)
-5. [Text](https://text.ixor.me)
 6. [JiuChan](https://www.jiuchan.org)
 
-### Some utility websites
+<!-- ### Some utility websites
 
 1. [Draw](https://draw.ixor.me)
-2. [Whiteboard](https://white.ixor.me)
+2. [Whiteboard](https://white.ixor.me) -->
 
 ### Add Your Link
 
