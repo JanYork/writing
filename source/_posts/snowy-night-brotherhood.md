@@ -1,9 +1,9 @@
 ---
 title: 雪夜
 date: 2025-11-12 12:10:00
-tags: [摘录, 亲情]
+tags: [摘录]
 categories: [摘录]
-description: 一个兄弟相依为命的家庭故事，在雪夜里照见责任与柔软。
+description: "我有个朋友，叫小C。小C很小的时候，父亲就因为一场意外离世了。小C的母亲身体也不好，干不了重活，"
 music_link: https://music.163.com/song?id=2755399601
 ---
 

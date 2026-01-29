@@ -1,9 +1,9 @@
 ---
 title: 好久不见
 date: 2025-11-12 12:05:00
-tags: [摘录, 情感]
+tags: [摘录]
 categories: [摘录]
-description: 一封十五年暗恋的自白，回望青春里的隐秘心事。
+description: "我应该是爱你的还记得我们的初次相遇，在十三岁的盛夏，我们相识于一个班级。一转眼，已经十五年了。"
 music_link: https://music.163.com/song?id=2755399601
 ---
 

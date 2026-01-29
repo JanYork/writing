@@ -1,9 +1,9 @@
 ---
 title: 药
 date: 2025-11-12 12:15:00
-tags: [摘录, 生死]
+tags: [摘录]
 categories: [摘录]
-description: 晚期病房里的父子，面对病痛、花费与诀别的漫长夜。
+description: "雪落无声。医院的暖气开得太足，燥得人嘴唇起皮。老孙头躺在病床上，盯着输液管里的药水，一滴、两滴，"
 music_link: https://music.163.com/song?id=2755399601
 ---
 

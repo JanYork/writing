@@ -1,9 +1,9 @@
 ---
 title: 手表
 date: 2025-01-23 12:00:00
-tags: [摘录, 亲情]
+tags: [摘录]
 categories: [摘录]
-description: 一块手表，连接着祖孙之间的深情，记录着时光流转中的温暖与牵挂。
+description: "买错手表后，本想转手又嫌麻烦，留着也无用，正巧赶上爷爷即将过生日，于是第二天便送给了他。"
 music_link: https://music.163.com/song?id=2755399601
 ---
 

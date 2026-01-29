@@ -1,9 +1,9 @@
 ---
 title: 生活
 date: 2025-11-12 12:00:00
-tags: [摘录, 思考]
+tags: [摘录]
 categories: [摘录]
-description: 从校园理想主义的炽热，到步入社会后的冷静自省。
+description: "校园里的愤怒是滚烫的，带着理想主义的温度。我们彻夜争论着资本对人的异化，"
 music_link: https://music.163.com/song?id=2755399601
 ---
 

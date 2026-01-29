@@ -1,9 +1,9 @@
 ---
 title: 梨树
 date: 2025-01-23 12:00:00
-tags: [摘录, 散文]
+tags: [摘录]
 categories: [摘录]
-description: 一棵梨树的故事，承载着祖母的深情与童年的记忆。
+description: "早几年，隔壁的郭叔给我捎来口信，家里那颗碗口大的梨树被开挖机的师傅撞断了，问我要不要回去看一眼。"
 music_link: https://music.163.com/song?id=2755399601
 ---
 

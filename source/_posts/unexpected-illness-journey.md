@@ -1,9 +1,9 @@
 ---
 title: 意外
 date: 2025-11-12 12:20:00
-tags: [摘录, 生活]
+tags: [摘录]
 categories: [摘录]
-description: 一位年轻患者两次与病魔擦肩后的反思，提醒人珍惜当下。
+description: "就在今年九月份的时候，我竟意外地得了脑梗。其实此前对于这个名词，我并没有什么概念。就在发病的前几天，"
 music_link: https://music.163.com/song?id=2755399601
 ---
 
